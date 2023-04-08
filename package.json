@@ -1,0 +1,14 @@
+{
+  "name": "afwheel",
+  "version": "1.0.0",
+  "description": "A GUI tool designed for speed and simplicity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "breezy23_",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.0.0"
+  }
+}
